@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GamePortal.API/GamePortal.API.csproj" />
+  <Project Path="GamePortal.Tests/GamePortal.Tests.csproj" />
+</Solution>
